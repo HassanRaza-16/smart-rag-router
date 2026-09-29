@@ -1,0 +1,26 @@
+Artificial intelligence is the field of building systems that can perform tasks that normally require human intelligence.
+
+Machine learning is a subset of artificial intelligence where systems learn patterns from data instead of being explicitly programmed for every task.
+
+Deep learning is a subset of machine learning that uses neural networks with multiple layers to learn complex patterns.
+
+Retrieval augmented generation, commonly called RAG, combines information retrieval with language generation. A RAG system retrieves relevant documents and provides them as context to a language model.
+
+Semantic search represents text as vectors and compares those vectors to find content with similar meaning.
+
+Semantic caching stores previous answers together with semantic representations of their queries. New queries can reuse cached responses when they are sufficiently similar.
+
+Model routing selects different language models depending on request characteristics such as complexity, latency requirements, or cost constraints.
+
+AI observability tracks metrics such as latency, token usage, model selection, errors, cache hit rate, and estimated inference cost.
+
+Vector databases store embeddings and allow systems to efficiently search for semantically similar information.
+
+Pinecone is a fully managed, cloud-native vector database built specifically for artificial intelligence and machine learning applications
+
+Serverless Architecture: Automatically scales capacity up or down to handle changing workloads without requiring manual infrastructure management
+
+Recommendation Systems: Delivers personalized product, media, or content suggestions based on behavioral similarity
+
+
+Oracle is an American multinational technology corporation best known for its market-leading relational database management system (RDBMS) and an expansive suite of enterprise software, cloud infrastructure, and hardware solutions
